@@ -1,0 +1,1 @@
+I made a scenario for a Dog Boarding Company, for use internal to the company. I added the capability to add new customers and their dog names, the ability to track activities done with each dog, and a bookings dashboard view.
